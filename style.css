@@ -3,6 +3,10 @@ body h1{
      margin: 0;
      padding: 0;
 }
+body p{
+     font-size: 20px;
+     font-weight:500;
+}
 
 .flex_container{
      display: flex;
@@ -34,7 +38,7 @@ button{
      border-image-outset: 20px;
      border-left: 5px solid;}
 h1 span{
-     color: indianred;
+     color:tomato;
 }
 /* section1 end */
 
@@ -122,6 +126,33 @@ h1 span{
 
 /* section4 end */
 
+
+.corona_app{
+     text-align: center;
+     font-weight: 900;
+     font-size: 60px;
+     margin-bottom: 100px;}
+
+ .flex_display {
+     display:flex;
+     padding-left:5%;
+     margin-right:20%;
+     margin-left:10%;
+ }
+.flex_display img{
+     
+     width: 100%;
+     border: 5px solid grey;
+     border-radius: 20px;
+}
+.flex_display h1{
+     font-weight: 900;
+     font-size: 60px;
+     
+}
+
+/* end section5 */
+
 footer{
      
      background-color: black;
@@ -145,3 +176,4 @@ footer p {
 }
 
 /* end footer */
+    
