@@ -40,6 +40,11 @@ button{
 h1 span{
      color:tomato;
 }
+.flex_container .half_width{
+     margin-top: 10%;
+}
+
+
 /* section1 end */
 
 
