@@ -1,0 +1,72 @@
+
+body h1{
+     margin: 0;
+}
+
+.flex_container{
+     display: flex;
+     margin-bottom: 100px;
+     padding-left: 10%;
+  }
+.half_width{
+     width: 50%;
+     padding-left: 10%;
+}
+.half_width img{
+     width: 80%;
+}
+button{
+     padding: 10px 35px;
+     font-weight: 700;
+     font-size: 16px;
+     background: hotpink;
+     border: none;
+     border-radius: 8px;
+     color: #fff;
+     cursor: pointer;
+}
+.flex_container h1{
+     font-family: 'Playfair Display', serif; 
+     font-size: 50px;
+     border-image-source: linear-gradient(red,red);
+     border-image-slice:1;
+     border-image-outset: 20px;
+     border-left: 5px solid;}
+h1 span{
+     color: indianred;
+}
+/* section1 end */
+
+
+
+.section2 h1{
+     font-family:'Roboto', sans-serif; 
+     text-align: center;
+     font-weight: 900;
+     font-size: 60px;
+     margin-bottom: 100px;
+}
+.flex_item{
+     width: 50%;
+     padding:10px;
+     margin-right: 5%;
+     margin-left: 5%;
+     box-shadow: 5px 5px 15px grey;
+    
+}
+.flex_item img{
+     width: 70%;
+}
+.div1 {
+     background: rgb(155, 195, 201);
+     border-radius: 30px;
+}
+.div2{
+     background: rgb(185, 165, 185);
+     border-radius: 30px;
+}
+.div3{
+     background:rgb(175, 200, 224);
+     border-radius: 30px;
+     
+}
