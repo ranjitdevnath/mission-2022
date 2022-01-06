@@ -96,3 +96,27 @@ h1 span{
 }
 /* section3 end */
 
+.section4 div{
+     width: 50%;
+     margin-left: 5%;
+     padding: 5%;
+}
+.section4 img{
+     width: 100%;
+}
+.section4{
+     display: flex;
+     padding-left: 5%;
+     background-image: url(/images/shapes/shape-1.png);
+     background-size: 15%;
+     background-position:right bottom;
+     background-repeat: no-repeat;
+}
+.section4 h1{
+     font-family:'Roboto', sans-serif; 
+     font-weight: 900;
+     font-size: 60px;
+     margin-bottom: 30px;
+}
+
+/* section4 end */
