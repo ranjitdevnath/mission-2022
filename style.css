@@ -1,6 +1,7 @@
 
 body h1{
      margin: 0;
+     padding: 0;
 }
 
 .flex_container{
@@ -120,3 +121,26 @@ h1 span{
 }
 
 /* section4 end */
+
+footer{
+     
+     background-color: black;
+     text-align: center;
+     padding: 15px;
+}
+footer h1{
+     font-family: 'Orelega One', cursive;
+     font-size: 70px;
+     color: aliceblue;
+     padding-top: 20px;
+}
+footer span{
+     color: orangered;
+}
+footer p {
+     color:ghostwhite;
+     font-size: 22px;
+     padding: 20px;
+}
+
+/* end footer */
